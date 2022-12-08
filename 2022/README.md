@@ -13,4 +13,5 @@ Advent of Code 2022 is located [here](https://adventofcode.com/2022/).
 | [Day 05: Supply Stacks](05)           |    🌟    |    🌟    |
 | [Day 06: Tuning Trouble](06)          |    🌟    |    🌟    |
 | [Day 07: No Space Left On Device](07) |    🌟    |    🌟    |
-| Day 08: TBD                           |    -     |    -     |
+| [Day 08: Treetop Tree House](08)      |    🌟    |    🌟    |
+| Day 09: TBD                           |    -     |    -     |
