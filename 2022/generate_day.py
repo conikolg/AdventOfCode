@@ -11,22 +11,26 @@ def main():
     day_folder.mkdir(exist_ok=False)
 
     # Create empty files for example and problem input
-    with open(day_folder / "example.txt", "w") as f:
+    with open(day_folder / "ex", "w") as f:
         pass
-    with open(day_folder / "in.txt", "w") as f:
+    with open(day_folder / "in", "w") as f:
         pass
 
     # Create template Python files
     content = """
-def main():
-    with open("in.txt", "r") as infile:
+def load_file(filename):
+    with open(filename, "r") as infile:
         lines = [line.strip() for line in infile.readlines()]
-    
+    return lines
+
+
+def main(lines):
     pass
 
 
 if __name__ == '__main__':
-    main()
+    main(load_file(filename="in"))
+
 """
     with open(day_folder / "q1.py", "w") as f:
         f.write(content)
