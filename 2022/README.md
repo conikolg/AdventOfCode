@@ -16,4 +16,5 @@ Advent of Code 2022 is located [here](https://adventofcode.com/2022/).
 | [Day 08: Treetop Tree House](08)      |    🌟    |    🌟    |
 | [Day 09: Rope Bridge](09)             |    🌟    |    🌟    |
 | [Day 10: Cathode-Ray Tube](10)        |    🌟    |    🌟    |
-| Day 11: TBD                           |    -     |    -     |
+| [Day 11: Monkey in the Middle](11)    |    🌟    |    🌟    |
+| Day 12: TBD                           |    -     |    -     |
