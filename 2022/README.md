@@ -17,4 +17,5 @@ Advent of Code 2022 is located [here](https://adventofcode.com/2022/).
 | [Day 09: Rope Bridge](09)             |    🌟    |    🌟    |
 | [Day 10: Cathode-Ray Tube](10)        |    🌟    |    🌟    |
 | [Day 11: Monkey in the Middle](11)    |    🌟    |    🌟    |
-| Day 12: TBD                           |    -     |    -     |
+| [Day 12: Hill Climbing Algorithm](12) |    🌟    |    🌟    |
+| Day 13: TBD                           |    -     |    -     |
