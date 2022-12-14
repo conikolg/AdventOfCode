@@ -18,6 +18,9 @@ def main():
 
     # Create template Python files
     content = """
+from utils import *
+
+
 def load_file(filename):
     with open(filename, "r") as infile:
         lines = [line.strip() for line in infile.readlines()]
@@ -30,7 +33,6 @@ def main(lines):
 
 if __name__ == '__main__':
     main(load_file(filename="in"))
-
 """
     with open(day_folder / "q1.py", "w") as f:
         f.write(content)
