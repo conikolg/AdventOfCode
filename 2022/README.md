@@ -20,4 +20,5 @@ Advent of Code 2022 is located [here](https://adventofcode.com/2022/).
 | [Day 12: Hill Climbing Algorithm](12) |    🌟    |    🌟    |
 | [Day 13: Distress Signal](13)         |    🌟    |    🌟    |
 | [Day 14: Regolith Reservoir](14)      |    🌟    |    🌟    |
-| Day 15: TBD                           |    -     |    -     |
+| [Day 15: Beacon Exclusion Zone](15)   |    🌟    |    🌟    |
+| Day 16: TBD                           |    -     |    -     |
