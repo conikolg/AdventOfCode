@@ -23,4 +23,5 @@ Advent of Code 2022 is located [here](https://adventofcode.com/2022/).
 | [Day 15: Beacon Exclusion Zone](15)   |    🌟    |    🌟    |
 | [Day 16: Proboscidea Volcanium](16)   |    -     |    -     |
 | [Day 17: Pyroclastic Flow](17)        |    🌟    |    🌟    |
-| Day 18: TBD                           |    -     |    -     |
+| [Day 18: Boiling Boulders](18)        |    🌟    |    🌟    |
+| Day 19: TBD                           |    -     |    -     |
