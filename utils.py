@@ -1,7 +1,7 @@
 import operator
 
 
-def get_grid_neighbors(grid: list[list], pos: tuple[int, int],
+def get_grid_neighbors(grid: [list | str], pos: tuple[int, int],
                        cardinal_directions: bool = True, ordinal_directions: bool = False,
                        valid_only: bool = True, get_positions: bool = True, get_values: bool = False):
     if not get_values and not get_positions:
