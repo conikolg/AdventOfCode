@@ -56,3 +56,7 @@ def as_grid(data, fn=(lambda x: x)):
 
 def add_tuples(a, b):
     return tuple(map(operator.add, a, b))
+
+
+def int_split(s: str) -> [int]:
+    return list(map(int, s.split()))
