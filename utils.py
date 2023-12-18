@@ -60,3 +60,12 @@ def add_tuples(a, b):
 
 def int_split(s: str) -> [int]:
     return list(map(int, s.split()))
+
+
+def print_return(func):
+    def f(*args, **kwargs):
+        ret = func(*args, **kwargs)
+        print(ret)
+        return ret
+
+    return f
