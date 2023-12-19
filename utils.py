@@ -69,3 +69,17 @@ def print_return(func):
         return ret
 
     return f
+
+
+def transpose(matrix: [list]) -> [list]:
+    return [
+        [matrix[j][i] for j in range(len(matrix))]
+        for i in range(len(matrix[0]))
+    ]
+
+
+def rotate_cw(matrix: [list]) -> [list]:
+    return [
+        list(reversed([matrix[i][j] for i in range(len(matrix))]))
+        for j in range(len(matrix[0]))
+    ]
