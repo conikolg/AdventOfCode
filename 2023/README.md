@@ -22,7 +22,10 @@ Advent of Code 2023 is located [here](https://adventofcode.com/2023/).
 | [Day 14: Parabolic Reflector Dish](14)        |    🌟    |    🌟    |
 | [Day 15: Lens Library](15)                    |    🌟    |    🌟    |
 | [Day 16: The Floor Will Be Lava](16)          |    🌟    |    🌟    |
-| Day 17: Clumsy Crucible                       |    -     |    -     |
+| [Day 17: Clumsy Crucible](17)                 |    🌟    |    🌟    |
 | Day 18: Lavaduct Lagoon                       |    -     |    -     |
 | Day 19: Aplenty                               |    -     |    -     |
-| Day 20: TBD                                   |    -     |    -     |
+| Day 20: Pulse Propagation                     |    -     |    -     |
+| Day 21: Step Counter                          |    -     |    -     |
+| Day 22: Sand Slabs                            |    -     |    -     |
+| Day 23: TBD                                   |    -     |    -     |
