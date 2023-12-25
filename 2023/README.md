@@ -23,7 +23,7 @@ Advent of Code 2023 is located [here](https://adventofcode.com/2023/).
 | [Day 15: Lens Library](15)                    |    🌟    |    🌟    |
 | [Day 16: The Floor Will Be Lava](16)          |    🌟    |    🌟    |
 | [Day 17: Clumsy Crucible](17)                 |    🌟    |    🌟    |
-| Day 18: Lavaduct Lagoon                       |    -     |    -     |
+| [Day 18: Lavaduct Lagoon](18)                 |    🌟    |    -     |
 | Day 19: Aplenty                               |    -     |    -     |
 | Day 20: Pulse Propagation                     |    -     |    -     |
 | Day 21: Step Counter                          |    -     |    -     |
